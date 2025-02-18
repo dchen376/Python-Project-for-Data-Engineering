@@ -8,11 +8,11 @@ https://www.coursera.org/learn/python-project-for-data-engineering/
 ## M1 - Extract, Transform, Load (ETL)
 ![image](https://github.com/user-attachments/assets/e5231f59-dfaa-472d-b52f-ec2f1821792e)
 
-### Working with Python Using an IDE
+### 1. Working with Python Using an IDE
 - cloud IDE
   ![image](https://github.com/user-attachments/assets/d13f210b-6ff2-428a-8d27-b9de6227069d)
 
-### Extract, Transform, Load (ETL)
+### 2. Extract, Transform, Load (ETL)
 ![image](https://github.com/user-attachments/assets/f32ded8a-fd3a-452a-8fdf-109cf48a1e91)
 #### Extract
 ![image](https://github.com/user-attachments/assets/87efc6d8-3101-4a88-bd23-95eb3b483ef1)
@@ -41,7 +41,7 @@ https://www.coursera.org/learn/python-project-for-data-engineering/
 ![image](https://github.com/user-attachments/assets/423510ab-96ad-443e-9744-cbf4e6502767)
 
 
-### Access Data Using Webscraping and APIs
+### 3. Access Data Using Webscraping and APIs
 #### Web Scraping
 ![image](https://github.com/user-attachments/assets/a7c77099-45ea-452e-900b-8c5b951e3627)
 
@@ -91,7 +91,7 @@ https://www.coursera.org/learn/python-project-for-data-engineering/
 
   
 
-### Access and Loading Databases Using Python
+### 4. Access and Loading Databases Using Python
 
 #### Reading: Querying SQLite3 database
 ![image](https://github.com/user-attachments/assets/512e4fb7-0a4f-4be1-af4a-272bdecab199)
