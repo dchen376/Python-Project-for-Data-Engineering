@@ -89,11 +89,21 @@ https://www.coursera.org/learn/python-project-for-data-engineering/
 ![image](https://github.com/user-attachments/assets/089c9cc4-f7bc-4218-aa82-07d77f674645)
 ![image](https://github.com/user-attachments/assets/a94e7e5f-fde4-4e3a-8fea-965d31af3ed7)
 
-
-
   
 
 ### Access and Loading Databases Using Python
+
+#### Reading: Querying SQLite3 database
+![image](https://github.com/user-attachments/assets/512e4fb7-0a4f-4be1-af4a-272bdecab199)
+![image](https://github.com/user-attachments/assets/35cb2ef0-3cac-49fe-aa22-6ba6a73eed03)
+![image](https://github.com/user-attachments/assets/2d78685b-0e8f-4ba0-bb30-a32c831edbdb)
+![image](https://github.com/user-attachments/assets/91d5622a-da7a-40b9-b3ed-8664455ec1a2)
+![image](https://github.com/user-attachments/assets/6a6a9724-0ec6-429f-b44a-ac2ead945e27)
+
+
+
+
+
 
 
 ## M2 - Final Project
