@@ -42,6 +42,56 @@ https://www.coursera.org/learn/python-project-for-data-engineering/
 
 
 ### Access Data Using Webscraping and APIs
+#### Web Scraping
+![image](https://github.com/user-attachments/assets/a7c77099-45ea-452e-900b-8c5b951e3627)
+
+- x2 modules
+  ![image](https://github.com/user-attachments/assets/c1c66f83-9d52-476f-ad09-5618c9600d23)
+
+![image](https://github.com/user-attachments/assets/760cef21-a897-43e8-8f3d-8de776249902)
+- beautiful Soup
+  ![image](https://github.com/user-attachments/assets/add0c10b-c540-432b-af44-0898a21865b2)
+![image](https://github.com/user-attachments/assets/0549a076-862c-442f-9fc9-9fdd580fd4b6)
+
+![image](https://github.com/user-attachments/assets/aa14ef3c-5397-4ba6-82bd-ff4df146df1e)
+![image](https://github.com/user-attachments/assets/31765373-2beb-480c-a1cd-45d7cbbe15a6)
+
+![image](https://github.com/user-attachments/assets/d02df9ff-4ba9-4fad-af60-f410fcc61099)
+![image](https://github.com/user-attachments/assets/30494c7d-1932-430d-ba41-6fac0987fedc)
+![image](https://github.com/user-attachments/assets/cafcc857-dfc3-4ae4-95aa-74bf9e5391d6)
+
+- filter
+  ![image](https://github.com/user-attachments/assets/68f3a39f-7da0-4bf5-9fd4-6682bce3c07b)
+![image](https://github.com/user-attachments/assets/bbf72884-0238-4441-9630-892ef70cf73e)
+
+
+![image](https://github.com/user-attachments/assets/2f68cf3a-0636-4442-b2da-5b20e0c3ef5c)
+
+
+#### REST APIs & HTTP Requests
+
+- Request Module in Python
+  ![image](https://github.com/user-attachments/assets/9b9b44ef-9230-4bb0-b095-3271b7e31e39)
+![image](https://github.com/user-attachments/assets/3d823745-8fb6-4bd8-b571-216b61878e1f)
+![image](https://github.com/user-attachments/assets/c2268e3f-8f02-4f24-8465-2f3fe9ffe88f)
+
+- Get Request with URL parameters
+![image](https://github.com/user-attachments/assets/322631c5-8b7b-4296-8711-f9fe6b1f244f)
+![image](https://github.com/user-attachments/assets/2c1795cc-8e92-4543-bae7-87fce854f9e1)
+
+![image](https://github.com/user-attachments/assets/3d159805-efc6-48c1-8d33-7c443f6873ee)
+![image](https://github.com/user-attachments/assets/1b08c70e-3fdd-4c49-8c7b-4468afe92490)
+![image](https://github.com/user-attachments/assets/d507f825-c7ad-4bd3-ae38-31da638952c2)
+
+- Post Requests
+![image](https://github.com/user-attachments/assets/4e6430ba-dea7-404f-8d94-151d705f7315)
+
+![image](https://github.com/user-attachments/assets/089c9cc4-f7bc-4218-aa82-07d77f674645)
+![image](https://github.com/user-attachments/assets/a94e7e5f-fde4-4e3a-8fea-965d31af3ed7)
+
+
+
+  
 
 ### Access and Loading Databases Using Python
 
