@@ -101,11 +101,49 @@ https://www.coursera.org/learn/python-project-for-data-engineering/
 ![image](https://github.com/user-attachments/assets/6a6a9724-0ec6-429f-b44a-ac2ead945e27)
 
 
-
-
-
-
-
 ## M2 - Final Project
 
 ## M3 - Python Coding Practices and Packaging Concepts
+![image](https://github.com/user-attachments/assets/23c9b960-16c3-4164-98f3-f9c8e7068ee5)
+
+### Python Style Guide and Coding Practices
+![image](https://github.com/user-attachments/assets/89184400-623b-43ff-8ff5-08a0547aa036)
+![image](https://github.com/user-attachments/assets/b84c323b-c040-4ea7-b64b-72701fc9e9f4)
+![image](https://github.com/user-attachments/assets/3b77d698-db5e-46b5-bfca-1cf7aded066a)
+![image](https://github.com/user-attachments/assets/8cc7d4fc-17f5-4095-87f4-af24c2ab1f53)
+![image](https://github.com/user-attachments/assets/cc3a5f48-9010-4933-b2ab-b9fc90d2f6b4)
+![image](https://github.com/user-attachments/assets/49c6696c-fcee-442e-b132-bd8599f5e95f)
+![image](https://github.com/user-attachments/assets/e6bde030-07e9-4c39-8381-45db8c74afbb)
+![image](https://github.com/user-attachments/assets/f47f7201-1db9-4c24-b764-0c90cdbe13ef)
+![image](https://github.com/user-attachments/assets/2fe92bf8-135e-40e4-a142-8c26c61d59c1)
+
+- static code analysis
+  ![image](https://github.com/user-attachments/assets/ac2a0220-b094-407d-a800-2f2fdd33f52a)
+
+### Reading: Static Code Analysis Resources
+![image](https://github.com/user-attachments/assets/1530d758-09e4-4188-8b02-fb62b8312be0)
+![image](https://github.com/user-attachments/assets/c9a9908f-70be-4d60-9605-b15bc501c0e0)
+
+### Unit Testing
+![image](https://github.com/user-attachments/assets/708d9122-fb97-4e7a-a2fe-fb67670d964f)
+![image](https://github.com/user-attachments/assets/ee15eab9-9ef2-43ff-8a1f-cb7806a9514c)
+![image](https://github.com/user-attachments/assets/ad14bbc9-5ec8-4227-b349-7e4bcba88737)
+![image](https://github.com/user-attachments/assets/0aeef068-2d5f-4cba-ba7b-6e0ff3ead875)
+
+- fail tests
+  ![image](https://github.com/user-attachments/assets/afa88957-ba34-4f63-ae4d-b6e05577572d)
+
+
+### Packaging
+
+![image](https://github.com/user-attachments/assets/6b9e90f9-90a3-4d2c-8481-30a9ae4a9336)
+
+- module
+  ![image](https://github.com/user-attachments/assets/4c8f6298-4529-46a4-baab-2cf79d7f0149)
+
+- package (with __init__.py)
+  ![image](https://github.com/user-attachments/assets/4990c744-2ade-4da5-84d7-0e93c1f0a81f)
+
+  
+  
+
