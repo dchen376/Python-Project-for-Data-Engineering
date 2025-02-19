@@ -144,6 +144,19 @@ https://www.coursera.org/learn/python-project-for-data-engineering/
 - package (with __init__.py)
   ![image](https://github.com/user-attachments/assets/4990c744-2ade-4da5-84d7-0e93c1f0a81f)
 
+- library
+  ![image](https://github.com/user-attachments/assets/15e47371-37d2-49f4-9472-d315aa08cbd3)
+
   
-  
+#### Creating a Package
+![image](https://github.com/user-attachments/assets/045b2de3-cfc2-494d-8722-1305830740ef)
+
+#### Verify a Package
+![image](https://github.com/user-attachments/assets/919671a9-ee85-4bcd-ba16-3b7f4347009e)
+
+#### using Package
+![image](https://github.com/user-attachments/assets/78e2d664-a211-404e-9f26-2bfe0ece3d41)
+
+![image](https://github.com/user-attachments/assets/f3f37a05-429d-4839-9652-20dd01b06e28)
+
 
