@@ -151,6 +151,9 @@ https://www.coursera.org/learn/python-project-for-data-engineering/
 #### Creating a Package
 ![image](https://github.com/user-attachments/assets/045b2de3-cfc2-494d-8722-1305830740ef)
 
+![image](https://github.com/user-attachments/assets/9c8f53c3-9f3f-40ab-8b10-c5a7d8b44811)
+
+
 #### Verify a Package
 ![image](https://github.com/user-attachments/assets/919671a9-ee85-4bcd-ba16-3b7f4347009e)
 
